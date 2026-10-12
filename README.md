@@ -16,3 +16,5 @@ Quick Start
 4. Run the pipeline:
 python audio_pipeline.py
 Processed videos will be exported to 3_output_videos/
+Support the ProjectIf this tool saved your editing hours, feel free to buy me a coffee:USDT (TRC20):
+TVGr7ffrZEfBVxxGAeo2oB6aV8qcCUjLHP
